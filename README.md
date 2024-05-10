@@ -11,7 +11,7 @@ Prerequisites
 Installation
 1.	Clone the repository:
 bashCopy code
-git clone https://balvindrasingh.github.io/marshellweb/
+git clone https://github.com/Balvindrasingh/marshellweb
 Usage
 1.	Open index.html in a web browser to view the website.
 2.	Navigate through the website using the navigation menu:
