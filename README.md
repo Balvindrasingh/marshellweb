@@ -1,5 +1,6 @@
 //Marshall Amplification Website
 This is a simple static website for Marshall Amplification, a renowned British company specializing in the manufacturing of guitar amplifiers.
+see here:   https://balvindrasingh.github.io/marshellweb/
 Features
 •	Home: A landing page with a video background showcasing the products and a call-to-action button to explore more.
 •	About: Information about the history, products, and legacy of Marshall Amplification.
@@ -10,7 +11,7 @@ Prerequisites
 Installation
 1.	Clone the repository:
 bashCopy code
-git clone https://github.com/balvindrasingh/marshall-amplification-website.git 
+git clone https://balvindrasingh.github.io/marshellweb/
 Usage
 1.	Open index.html in a web browser to view the website.
 2.	Navigate through the website using the navigation menu:
